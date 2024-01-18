@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 :host {
+  display: block;
+  height: 100%;
   --chatbot-container-bg-image: none;
   --chatbot-container-bg-color: transparent;
   --chatbot-container-font-family: 'Open Sans';
