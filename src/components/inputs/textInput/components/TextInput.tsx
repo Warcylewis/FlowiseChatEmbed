@@ -50,7 +50,7 @@ export const TextInput = (props: Props) => {
       data-testid="input"
       style={{
         border: 'none',
-        position: 'absolute',
+        position: 'fixed',
         left: '20px',
         right: '20px',
         bottom: '40px',
